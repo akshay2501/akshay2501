@@ -34,7 +34,7 @@
 
 ###
 
-<h5 align="left">- 🔭 I’m working as Project Engineer at Crio.Do<br>- 🌱 I’m currently learning react<br>- 📫 How to reach me akshayknp25@gmail.com</h5>
+<h5 align="left">- 🔭 I’m working as Project Engineer at Crio.Do<br>- 🌱 I’m currently working on web development<br>- 📫 How to reach me akshayknp25@gmail.com</h5>
 
 ###
 
